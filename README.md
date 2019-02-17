@@ -1,3 +1,3 @@
 # Advent of Code
 
-Started on 30th Oct 2018
+My solutions for each edition of [Advent of Code](https://adventofcode.com/)
